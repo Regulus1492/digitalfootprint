@@ -1,0 +1,26 @@
+Notes
+MVP
+Clean code on google web scrapping (done). 
+Web scrapp another page (done)
+Allows user to insert his name and last name (done)
+Displays table with some relevant results. (done)
+Error handling: check for digits in name, check for special characters as well (done)
+
+Urgent pendings:
+Checks CS50 code examples on Py (Done): most of them just use one notebook. MaybeJust go with one single py. 
+Check code style
+Upload to github some how
+Arrange documents following book guides. Tackle almos any ds problem
+Check for other requirements to upload document
+
+If time allows
+Create a db that holds data (not)
+Create a Web Page that displays this results (not).
+Create a digital footprint index, that goes red if 
+there are too many entries. 
+
+Organization:
+Create schedule to present results. 
+Project must be finished before 31 dec.
+
+
