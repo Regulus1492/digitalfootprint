@@ -2,6 +2,7 @@
 
 ### **Video Demo:**
 
+- [Digital footprint video](https://www.youtube.com/watch?v=C5VJ3aqVSEk&ab_channel=JuanCarlosSerranoM)
 
 ### **Description:**
 
